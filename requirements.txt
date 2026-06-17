@@ -1,0 +1,10 @@
+
+
+# #pip install flask
+# pip install mysql-connector-python
+# pip install requests
+
+# packages uses::
+# flask :web framework for developing application 
+# mysql-connector-python:connects python with mysql database
+# requests: used for handling HTTP requests(If needed for ApI's)
